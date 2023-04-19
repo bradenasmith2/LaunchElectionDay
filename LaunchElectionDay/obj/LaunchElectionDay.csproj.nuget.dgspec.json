@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\skyla\\Source\\Repos\\LaunchElectionDay\\LaunchElectionDay\\LaunchElectionDay.csproj": {}
+    "C:\\Users\\brade\\Source\\Repos\\LaunchElectionDay\\LaunchElectionDay\\LaunchElectionDay.csproj": {}
   },
   "projects": {
-    "C:\\Users\\skyla\\Source\\Repos\\LaunchElectionDay\\LaunchElectionDay\\LaunchElectionDay.csproj": {
+    "C:\\Users\\brade\\Source\\Repos\\LaunchElectionDay\\LaunchElectionDay\\LaunchElectionDay.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\skyla\\Source\\Repos\\LaunchElectionDay\\LaunchElectionDay\\LaunchElectionDay.csproj",
+        "projectUniqueName": "C:\\Users\\brade\\Source\\Repos\\LaunchElectionDay\\LaunchElectionDay\\LaunchElectionDay.csproj",
         "projectName": "LaunchElectionDay",
-        "projectPath": "C:\\Users\\skyla\\Source\\Repos\\LaunchElectionDay\\LaunchElectionDay\\LaunchElectionDay.csproj",
-        "packagesPath": "C:\\Users\\skyla\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\skyla\\Source\\Repos\\LaunchElectionDay\\LaunchElectionDay\\obj\\",
+        "projectPath": "C:\\Users\\brade\\Source\\Repos\\LaunchElectionDay\\LaunchElectionDay\\LaunchElectionDay.csproj",
+        "packagesPath": "C:\\Users\\brade\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\brade\\Source\\Repos\\LaunchElectionDay\\LaunchElectionDay\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\skyla\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\brade\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
