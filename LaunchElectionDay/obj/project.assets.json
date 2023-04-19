@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\brade\\.nuget\\packages\\": {}
+    "C:\\Users\\skyla\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\brade\\Source\\Repos\\LaunchElectionDay\\LaunchElectionDay\\LaunchElectionDay.csproj",
+      "projectUniqueName": "C:\\Users\\skyla\\Source\\Repos\\LaunchElectionDay\\LaunchElectionDay\\LaunchElectionDay.csproj",
       "projectName": "LaunchElectionDay",
-      "projectPath": "C:\\Users\\brade\\Source\\Repos\\LaunchElectionDay\\LaunchElectionDay\\LaunchElectionDay.csproj",
-      "packagesPath": "C:\\Users\\brade\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\brade\\Source\\Repos\\LaunchElectionDay\\LaunchElectionDay\\obj\\",
+      "projectPath": "C:\\Users\\skyla\\Source\\Repos\\LaunchElectionDay\\LaunchElectionDay\\LaunchElectionDay.csproj",
+      "packagesPath": "C:\\Users\\skyla\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\skyla\\Source\\Repos\\LaunchElectionDay\\LaunchElectionDay\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\brade\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\skyla\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
